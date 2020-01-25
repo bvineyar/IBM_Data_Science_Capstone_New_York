@@ -1,4 +1,4 @@
-#  IBM Data Science Capstone Project - Part I #
+e#  IBM Data Science Capstone Project - Part I #
 ## Battle of the Neighborhoods - Austin, TX vs. Denver, CO
 ### Comparison of Education and Medical Care ###
 ### Brian Vineyard ###
@@ -7,7 +7,7 @@
 
 **Business Problem**: What city offers the best options for Education, Medical Care, Fitness, and Parks?
 
-As an advisor to a business relocating to other states, we want to compare the quality and availability of Education, Healthcare, Fitness, and Park options between Austin, Texas and Denver, Colorado. Our business problem is to compare the availability and quality of schools, colleges, universities, and hospitals, then provide recommendations to the owners and managers of the company based on our findings.
+As an advisor to a business relocating to their operations, we want to compare the quality and availability of Education, Healthcare, Fitness, and Park options between Austin, Texas and Denver, Colorado. Our business problem is to compare the availability and quality of schools, colleges, universities, hospitals, gyms, and parks, then provide recommendations to the owners and managers of the company based on our findings.
 
 Foursquare API comparison of two possible destinations:
 
