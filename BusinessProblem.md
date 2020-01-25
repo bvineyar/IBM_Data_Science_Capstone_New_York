@@ -1,21 +1,19 @@
 e#  IBM Data Science Capstone Project - Part I #
-## Battle of the Neighborhoods - Austin, TX vs. Denver, CO
-### Comparison of Education and Medical Care ###
+## Battle of the Neighborhoods - Austin, TX
+### Comparison of Education, Medical Care, Gyms, and Parks ###
 ### Brian Vineyard ###
 
 ### Part I: Business Problem ###
 
-**Business Problem**: What city offers the best options for Education, Medical Care, Fitness, and Parks?
+**Business Problem**: What area of Austin offers the best options for Education, Medical Care, Fitness, and Parks?
 
-As an advisor to a business relocating to their operations, we want to compare the quality and availability of Education, Healthcare, Fitness, and Park options between Austin, Texas and Denver, Colorado. Our business problem is to compare the availability and quality of schools, colleges, universities, hospitals, gyms, and parks, then provide recommendations to the owners and managers of the company based on our findings.
+As an advisor to a business relocating their operations, we want to compare the quality and availability of Education, Healthcare, Fitness, and Park options in Austin, Texas. Our business problem is to compare the availability and quality of schools, colleges, universities, hospitals, gyms, and parks, then provide recommendations to the owners and managers of the company based on our findings.
 
-Foursquare API comparison of two possible destinations:
-
-Example search criteria: Schools, Colleges and Universities, Hospitals, Doctors, Gyms / Fitness Centers, Parks
+Foursquare API study of following city:
 
 - Austin, TX
-- Denver, CO
 
+Example search criteria: Schools, Colleges and Universities, Hospitals, Doctors, Gyms / Fitness Centers, Parks
 
 **Project Details**: 
 
@@ -25,4 +23,4 @@ This project uses the following tools and technology:
 - [OpenDataSoft (ODS)](https://public.opendatasoft.com/explore/?sort=modified)
 
 
-The goal is to list and compare education and healthcare quality between the two cities, then conclude which is the better relocation choice for our customer.
+The goal is to find the best area of the city to locate our new operations, based on our findings.
