@@ -1,6 +1,6 @@
 #  IBM Data Science Capstone Project - Part II #
 ## Battle of the Neighborhoods - Austin, TX vs. Denver, CO
-### Comparison of Education and Medical Care ###
+### Comparison of Education, Health Care, Gyms, and Parks ###
 ### Brian Vineyard ###
 
 ### Part II: Data ###
@@ -17,7 +17,21 @@ This project will use data for the latitude and longitude of zipcodes located in
 - https://public.opendatasoft.com/explore/dataset/us-zip-code-latitude-and-longitude/table/?refine.state=TX&q=Austin)
 - https://public.opendatasoft.com/explore/dataset/us-zip-code-latitude-and-longitude/table/?refine.state=CO&q=Denver)
 
-The coordinates will be passed to the Foursquare API, for querying Austin and Denver neighborhoods for 
+The coordinates will be passed to the Foursquare API, for querying Austin and Denver neighborhoods for venues such as:
+
+Education
+- Schools
+- Colleges and Universities
+
+Healthcare
+- Hospitals
+- Doctors
+
+Fitness
+- Gym / Fitness Center
+
+Outdoors
+- Parks
 
 
 **Project Details**: 
